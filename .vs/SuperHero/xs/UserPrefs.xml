@@ -1,0 +1,4 @@
+﻿<Properties StartupConfiguration="{AD2A3677-993A-4CE5-8997-5E2A752A21B3}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SuperHero PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
